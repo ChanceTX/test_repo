@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+ #!/usr/bin/env python
 
 def chance():
-    print("I love being alone")
+    print("I love nobody")
+    print("You has gay")
