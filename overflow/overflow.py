@@ -1,4 +1,4 @@
 #!/usr/bin/env python
 
 def chance():
-    print("")
+    print("I love nobody")
